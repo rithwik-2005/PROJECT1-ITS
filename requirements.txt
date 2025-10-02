@@ -1,0 +1,7 @@
+ultralytics>=8.0.0
+opencv-python
+easyocr
+pandas
+openpyxl
+streamlit
+torch>=2.0.0

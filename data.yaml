@@ -1,0 +1,4 @@
+train: dataset_yolo/images
+val: dataset_yolo/images  # you can split a validation folder if you want
+nc: 1
+names: ['license_plate']
